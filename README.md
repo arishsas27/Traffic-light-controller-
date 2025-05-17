@@ -1,4 +1,4 @@
-# 4 KB-ROM-Memory-with-Read-and-Write-Operations
+
 Aim
 To design and simulate a traffic light controller  using Verilog HDL and verify the functionality through a testbench in the Vivado 2023.1 simulation environment.
 
